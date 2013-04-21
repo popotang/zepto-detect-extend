@@ -1,0 +1,3 @@
+zepto-detect-extend
+===================
+extend zepto detect,add some devices in China.including UC Browser,QQBrowser...
