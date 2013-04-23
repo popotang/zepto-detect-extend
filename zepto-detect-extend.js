@@ -1,4 +1,3 @@
-
 /**
  * 扩展浏览器和操作系统判断
  */
@@ -59,5 +58,5 @@
 		this.os.hasTouch = ('ontouchstart' in window);
 	}
 	detect.call($, navigator.userAgent);
-})(tvp.$);
+})(Zepto);
 
